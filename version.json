@@ -1,4 +1,5 @@
 {
     "version": "25.0.1",
-    "mobileUrl": "[latest_direct_download_url]"
+    "mobileUrl": "[latest_direct_download_url_for_apk]",
+    "pcUrl": "[latest_direct_download_url_for_pc]"
 }
